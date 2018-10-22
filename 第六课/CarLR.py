@@ -26,7 +26,7 @@ if __name__ == "__main__":
 	pd.set_option("display.width", 300)
 	pd.set_option("display.max_columns", 300)
 
-	path = r'E:\python\PythonSpace\Git\ML\Data\6\car.data'
+	path = r'E:\python\PythonSpace\Git\ML\第六课\data\car.data'
 	# 列名
 	columns = ["buy", "maintain", "doors", "persons", "boot", "safety", "accept"]
 	data = pd.read_csv(path, header=None, names=columns)
