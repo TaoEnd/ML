@@ -23,6 +23,11 @@ if __name__=="__main__":
 	x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.2)
 
 	# 训练模型
+	# class_weight：比如当前有2类样本，0和1，它们是不平衡的样本，
+	# 比如0的样本有100个，1的样本有20个，此时可以通过class_weight来
+	# 设置0、1样本的权重，使得模型更关注数量更少的1，比如可以设置成
+	# class_weight={0:1, 1:5},1、5分别表示权重。这是一种处理不平衡
+	# 样本的方法。
 	model = LogisticRegressionCV(Cs=np.logspace(-1, 4, 10), cv=5, n_jobs=3)
 	model.fit(x_train, y_train)
 	y_pred = model.predict(x_test)

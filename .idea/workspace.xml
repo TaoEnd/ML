@@ -2,27 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="29902461-f00b-4dba-ac4b-b153a97e4767" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第十一课-决策树/DecisionTreeRegressor.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第十一课-决策树/Iris_DecisionTree.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第十一课-决策树/One-Hot.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/第九课/ARIMA.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/第九课/Boston.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/第九课/IRIS.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/第九课/LinearRegression.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/第九课/Save.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/第九课/data/Advertising.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/第九课/data/AirPassengers.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/第九课/data/housing.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/第九课/data/housing.names" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/第九课/data/iris.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/第九课/data/iris.names" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/第九课/data/lr.model" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/第九课/test.py" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/External/Diabetes.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/第六课/CarLR.py" afterPath="$PROJECT_DIR$/第六课-基础/CarLR.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/第六课/data/car.data" afterPath="$PROJECT_DIR$/第六课-基础/data/car.data" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/第六课/data/iris.data" afterPath="$PROJECT_DIR$/第六课-基础/data/iris.data" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/第六课/data/iris.names" afterPath="$PROJECT_DIR$/第六课-基础/data/iris.names" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/第九课-回归/IRIS.py" afterPath="$PROJECT_DIR$/第九课-回归/IRIS.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/第十一课-决策树/DecisionTreeRegressor.py" afterPath="$PROJECT_DIR$/第十一课-决策树/DecisionTreeRegressor.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -37,23 +20,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="Iris_DecisionTree.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/第十一课-决策树/Iris_DecisionTree.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="22" column="26" lean-forward="false" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
-              <folding>
-                <element signature="e#16#34#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DecisionTreeRegressor.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DecisionTreeRegressor.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/第十一课-决策树/DecisionTreeRegressor.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="33" column="21" lean-forward="false" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
+            <state relative-caret-position="71">
+              <caret line="20" column="64" lean-forward="false" selection-start-line="20" selection-start-column="64" selection-end-line="20" selection-end-column="64" />
               <folding>
                 <element signature="e#16#34#0" expanded="true" />
               </folding>
@@ -61,31 +32,93 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pyplot.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../../python35/Lib/site-packages/matplotlib/pyplot.py">
+      <file leaf-file-name="CarLR.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/第六课-基础/CarLR.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="1387" column="4" lean-forward="false" selection-start-line="1387" selection-start-column="4" selection-end-line="1387" selection-end-column="4" />
+            <state relative-caret-position="350">
+              <caret line="41" column="20" lean-forward="false" selection-start-line="41" selection-start-column="20" selection-end-line="41" selection-end-column="20" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="multiarray.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/.PyCharmCE2017.1/system/python_stubs/-2024071421/numpy/core/multiarray.py">
+      <file leaf-file-name="IRIS.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/第九课-回归/IRIS.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="4210" column="8" lean-forward="false" selection-start-line="4210" selection-start-column="8" selection-end-line="4210" selection-end-column="8" />
+            <state relative-caret-position="350">
+              <caret line="29" column="12" lean-forward="false" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mtrand.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/.PyCharmCE2017.1/system/python_stubs/-2024071421/numpy/random/mtrand.py">
+      <file leaf-file-name="Diabetes.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/External/Diabetes.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="271">
-              <caret line="2068" column="4" lean-forward="false" selection-start-line="2068" selection-start-column="4" selection-end-line="2068" selection-end-column="4" />
+            <state relative-caret-position="280">
+              <caret line="47" column="16" lean-forward="false" selection-start-line="47" selection-start-column="16" selection-end-line="47" selection-end-column="16" />
+              <folding>
+                <element signature="e#16#35#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ridge.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../../python35/Lib/site-packages/sklearn/linear_model/ridge.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="157">
+              <caret line="638" column="8" lean-forward="false" selection-start-line="638" selection-start-column="8" selection-end-line="638" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_split.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../../python35/Lib/site-packages/sklearn/model_selection/_split.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-896">
+              <caret line="1919" column="4" lean-forward="false" selection-start-line="1919" selection-start-column="4" selection-end-line="1919" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="coordinate_descent.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../../python35/Lib/site-packages/sklearn/linear_model/coordinate_descent.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="916" column="8" lean-forward="false" selection-start-line="916" selection-start-column="8" selection-end-line="916" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="base.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../../python35/Lib/site-packages/sklearn/datasets/base.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1334">
+              <caret line="551" column="4" lean-forward="false" selection-start-line="551" selection-start-column="4" selection-end-line="551" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="logistic.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../../python35/Lib/site-packages/sklearn/linear_model/logistic.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="1558" column="31" lean-forward="true" selection-start-line="1558" selection-start-column="31" selection-end-line="1558" selection-end-column="43" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="base.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../../python35/Lib/site-packages/sklearn/linear_model/base.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-577">
+              <caret line="449" column="8" lean-forward="false" selection-start-line="449" selection-start-column="8" selection-end-line="449" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -122,12 +155,14 @@
         <option value="$PROJECT_DIR$/第十一课-决策树/One-Hot.py" />
         <option value="$PROJECT_DIR$/第十一课-决策树/Iris_DecisionTree.py" />
         <option value="$PROJECT_DIR$/第十一课-决策树/DecisionTreeRegressor.py" />
+        <option value="$PROJECT_DIR$/第九课-回归/IRIS.py" />
+        <option value="$PROJECT_DIR$/External/Diabetes.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="644" />
-    <option name="y" value="59" />
+    <option name="x" value="614" />
+    <option name="y" value="121" />
     <option name="width" value="1227" />
     <option name="height" value="921" />
   </component>
@@ -161,52 +196,6 @@
               <option name="myItemId" value="ML" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="第十一课-决策树" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ML" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ML" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="第十一课-决策树" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="data" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ML" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ML" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ML" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ML" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="第九课-回归" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -234,25 +223,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.DecisionTreeRegressor">
-    <configuration default="false" name="LinearRegression" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第九课" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="ML" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第九课/LinearRegression.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.Diabetes">
     <configuration default="false" name="Save" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -325,6 +296,24 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
+    <configuration default="false" name="Diabetes" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/External" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ML" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/External/Diabetes.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -390,19 +379,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.LinearRegression" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Save" />
-      <item index="2" class="java.lang.String" itemvalue="Python.One-Hot" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Iris_DecisionTree" />
-      <item index="4" class="java.lang.String" itemvalue="Python.DecisionTreeRegressor" />
+      <item index="0" class="java.lang.String" itemvalue="Python.Save" />
+      <item index="1" class="java.lang.String" itemvalue="Python.One-Hot" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Iris_DecisionTree" />
+      <item index="3" class="java.lang.String" itemvalue="Python.DecisionTreeRegressor" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Diabetes" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.DecisionTreeRegressor" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Iris_DecisionTree" />
-        <item index="2" class="java.lang.String" itemvalue="Python.One-Hot" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Save" />
-        <item index="4" class="java.lang.String" itemvalue="Python.LinearRegression" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Diabetes" />
+        <item index="1" class="java.lang.String" itemvalue="Python.DecisionTreeRegressor" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Iris_DecisionTree" />
+        <item index="3" class="java.lang.String" itemvalue="Python.One-Hot" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Save" />
       </list>
     </recent_temporary>
   </component>
@@ -429,7 +418,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="644" y="59" width="1227" height="921" extended-state="0" />
+    <frame x="614" y="121" width="1227" height="921" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2541197" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -437,7 +426,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33597884" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33201057" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936507" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -480,27 +469,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../../../python35/Lib/site-packages/pandas/core/reshape/reshape.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36400">
-          <caret line="1071" column="15" lean-forward="false" selection-start-line="1071" selection-start-column="4" selection-end-line="1071" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../python35/Lib/site-packages/pandas/core/categorical.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7385">
-          <caret line="250" column="8" lean-forward="false" selection-start-line="250" selection-start-column="8" selection-end-line="250" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../python35/Lib/site-packages/sklearn/metrics/ranking.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-816">
-          <caret line="202" column="4" lean-forward="false" selection-start-line="202" selection-start-column="4" selection-end-line="202" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/第六课-基础/data/car.data">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="35">
@@ -572,13 +540,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/第九课/data/housing.data" />
-    <entry file="file://$PROJECT_DIR$/../../../python35/Lib/site-packages/sklearn/linear_model/logistic.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="1556" column="8" lean-forward="false" selection-start-line="1556" selection-start-column="8" selection-end-line="1556" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/第九课/test.py" />
     <entry file="file://$PROJECT_DIR$/第九课/data/iris.data" />
     <entry file="file://$PROJECT_DIR$/第九课/data/Advertising.csv" />
@@ -597,24 +558,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../../python35/Lib/site-packages/sklearn/linear_model/base.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1291">
-          <caret line="449" column="8" lean-forward="false" selection-start-line="449" selection-start-column="8" selection-end-line="449" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../../../python35/Lib/site-packages/pandas/core/indexes/base.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="129">
           <caret line="2441" column="0" lean-forward="false" selection-start-line="2441" selection-start-column="0" selection-end-line="2441" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../python35/Lib/site-packages/sklearn/linear_model/ridge.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="638" column="8" lean-forward="false" selection-start-line="638" selection-start-column="8" selection-end-line="638" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -637,13 +584,6 @@
     <entry file="file://$PROJECT_DIR$/第九课/ARIMA.py" />
     <entry file="file://$PROJECT_DIR$/第九课/Save.py" />
     <entry file="file://$PROJECT_DIR$/第九课/LinearRegression.py" />
-    <entry file="file://$PROJECT_DIR$/第六课-基础/CarLR.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="41" column="20" lean-forward="false" selection-start-line="41" selection-start-column="20" selection-end-line="41" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/第十一课-决策树/One-Hot.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="245">
@@ -662,20 +602,6 @@
     <entry file="file://$PROJECT_DIR$/第九课-回归/ARIMA.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1260">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第九课-回归/IRIS.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-105">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第九课-回归/LinearRegression.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1040">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
@@ -741,14 +667,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../../python35/Lib/site-packages/sklearn/model_selection/_split.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="1950" column="16" lean-forward="false" selection-start-line="1950" selection-start-column="4" selection-end-line="1950" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../../../python35/Lib/site-packages/matplotlib/colors.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
@@ -791,12 +709,94 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/第九课-回归/LinearRegression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="55" column="20" lean-forward="false" selection-start-line="55" selection-start-column="20" selection-end-line="55" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../python35/Lib/site-packages/sklearn/linear_model/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-577">
+          <caret line="449" column="8" lean-forward="false" selection-start-line="449" selection-start-column="8" selection-end-line="449" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../python35/Lib/site-packages/sklearn/linear_model/logistic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="1558" column="31" lean-forward="true" selection-start-line="1558" selection-start-column="31" selection-end-line="1558" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../python35/Lib/site-packages/sklearn/datasets/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1334">
+          <caret line="551" column="4" lean-forward="false" selection-start-line="551" selection-start-column="4" selection-end-line="551" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../python35/Lib/site-packages/sklearn/linear_model/coordinate_descent.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="916" column="8" lean-forward="false" selection-start-line="916" selection-start-column="8" selection-end-line="916" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第六课-基础/CarLR.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="41" column="20" lean-forward="false" selection-start-line="41" selection-start-column="20" selection-end-line="41" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/第十一课-决策树/DecisionTreeRegressor.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="33" column="21" lean-forward="false" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
+        <state relative-caret-position="71">
+          <caret line="20" column="64" lean-forward="false" selection-start-line="20" selection-start-column="64" selection-end-line="20" selection-end-column="64" />
           <folding>
             <element signature="e#16#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../python35/Lib/site-packages/sklearn/model_selection/_split.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-896">
+          <caret line="1919" column="4" lean-forward="false" selection-start-line="1919" selection-start-column="4" selection-end-line="1919" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第九课-回归/IRIS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="29" column="12" lean-forward="false" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../python35/Lib/site-packages/sklearn/linear_model/ridge.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="638" column="8" lean-forward="false" selection-start-line="638" selection-start-column="8" selection-end-line="638" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/External/Diabetes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="47" column="16" lean-forward="false" selection-start-line="47" selection-start-column="16" selection-end-line="47" selection-end-column="16" />
+          <folding>
+            <element signature="e#16#35#0" expanded="true" />
           </folding>
         </state>
       </provider>
