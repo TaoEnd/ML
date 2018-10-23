@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="29902461-f00b-4dba-ac4b-b153a97e4767" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第九课/ARIMA.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第九课/Boston.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第九课/IRIS.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第九课/test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第九课/LinearRegression.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第九课/Save.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/第六课/CarLR.py" afterPath="$PROJECT_DIR$/第六课/CarLR.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Data/6/car.data" afterPath="$PROJECT_DIR$/第六课/data/car.data" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Data/6/iris.data" afterPath="$PROJECT_DIR$/第六课/data/iris.data" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Data/6/iris.names" afterPath="$PROJECT_DIR$/第六课/data/iris.names" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -25,10 +19,34 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="IRIS.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LinearRegression.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/第九课/LinearRegression.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="84" selection-end-column="14" />
+              <folding>
+                <element signature="e#16#34#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Save.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/第九课/Save.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="22" column="13" lean-forward="false" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+              <folding>
+                <element signature="e#16#35#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IRIS.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/第九课/IRIS.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
+            <state relative-caret-position="630">
               <caret line="18" column="40" lean-forward="false" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
               <folding>
                 <element signature="e#16#34#0" expanded="true" />
@@ -37,42 +55,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/第九课/test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="109">
-              <caret line="8" column="24" lean-forward="false" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-              <folding>
-                <element signature="e#16#34#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CarLR.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/第六课/CarLR.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="41" column="20" lean-forward="true" selection-start-line="41" selection-start-column="20" selection-end-line="41" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="logistic.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../../python35/Lib/site-packages/sklearn/linear_model/logistic.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="145">
-              <caret line="1556" column="8" lean-forward="false" selection-start-line="1556" selection-start-column="8" selection-end-line="1556" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Boston.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/第九课/Boston.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
+            <state relative-caret-position="-1254">
               <caret line="22" column="20" lean-forward="false" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
               <folding>
                 <element signature="e#16#34#0" expanded="true" />
@@ -81,11 +67,61 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="iris.data" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/第九课/data/iris.data">
+      <file leaf-file-name="ARIMA.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/第九课/ARIMA.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="229">
+              <caret line="72" column="14" lean-forward="true" selection-start-line="72" selection-start-column="14" selection-end-line="72" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ridge.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../../python35/Lib/site-packages/sklearn/linear_model/ridge.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="143">
+              <caret line="638" column="8" lean-forward="false" selection-start-line="638" selection-start-column="8" selection-end-line="638" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="base.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../../python35/Lib/site-packages/sklearn/linear_model/base.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1291">
+              <caret line="449" column="8" lean-forward="false" selection-start-line="449" selection-start-column="8" selection-end-line="449" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pyplot.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../../python35/Lib/site-packages/matplotlib/pyplot.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="128">
+              <caret line="1387" column="4" lean-forward="false" selection-start-line="1387" selection-start-column="4" selection-end-line="1387" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="matrix.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../../python35/Lib/site-packages/seaborn/matrix.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6128">
+              <caret line="1126" column="8" lean-forward="false" selection-start-line="1126" selection-start-column="8" selection-end-line="1126" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cbook.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../../python35/Lib/site-packages/matplotlib/cbook.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4973">
+              <caret line="1563" column="8" lean-forward="false" selection-start-line="1563" selection-start-column="8" selection-end-line="1563" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -117,12 +153,14 @@
         <option value="$PROJECT_DIR$/第九课/test.py" />
         <option value="$PROJECT_DIR$/第六课/CarLR.py" />
         <option value="$PROJECT_DIR$/第九课/IRIS.py" />
+        <option value="$PROJECT_DIR$/第九课/LinearRegression.py" />
+        <option value="$PROJECT_DIR$/第九课/Save.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="435" />
-    <option name="y" value="103" />
+    <option name="x" value="385" />
+    <option name="y" value="46" />
     <option name="width" value="1227" />
     <option name="height" value="921" />
   </component>
@@ -144,6 +182,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -213,7 +252,6 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -237,7 +275,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.IRIS">
+  <component name="RunManager" selected="Python.LinearRegression">
     <configuration default="false" name="CarLR" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -251,24 +289,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="ML" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第六课/CarLR.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="ARIMA" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第九课" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="ML" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第九课/ARIMA.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -323,6 +343,24 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="ML" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第九课/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="LinearRegression" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第九课" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ML" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第九课/LinearRegression.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -394,18 +432,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.CarLR" />
-      <item index="1" class="java.lang.String" itemvalue="Python.ARIMA" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Boston" />
-      <item index="3" class="java.lang.String" itemvalue="Python.IRIS" />
-      <item index="4" class="java.lang.String" itemvalue="Python.test" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Boston" />
+      <item index="2" class="java.lang.String" itemvalue="Python.IRIS" />
+      <item index="3" class="java.lang.String" itemvalue="Python.test" />
+      <item index="4" class="java.lang.String" itemvalue="Python.LinearRegression" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.IRIS" />
-        <item index="1" class="java.lang.String" itemvalue="Python.CarLR" />
-        <item index="2" class="java.lang.String" itemvalue="Python.test" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Boston" />
-        <item index="4" class="java.lang.String" itemvalue="Python.ARIMA" />
+        <item index="0" class="java.lang.String" itemvalue="Python.LinearRegression" />
+        <item index="1" class="java.lang.String" itemvalue="Python.IRIS" />
+        <item index="2" class="java.lang.String" itemvalue="Python.CarLR" />
+        <item index="3" class="java.lang.String" itemvalue="Python.test" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Boston" />
       </list>
     </recent_temporary>
   </component>
@@ -432,19 +470,19 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="435" y="103" width="1227" height="921" extended-state="0" />
+    <frame x="385" y="46" width="1227" height="921" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24891587" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38359788" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38756615" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936507" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -463,201 +501,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/第六课/data/car.data">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="3" column="29" lean-forward="false" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../python35/Lib/site-packages/sklearn/linear_model/logistic.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54460">
-          <caret line="1556" column="8" lean-forward="false" selection-start-line="1556" selection-start-column="8" selection-end-line="1556" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../python35/Lib/site-packages/pandas/core/categorical.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8750">
-          <caret line="250" column="8" lean-forward="false" selection-start-line="250" selection-start-column="8" selection-end-line="250" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../python35/Lib/site-packages/pandas/core/reshape/reshape.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36400">
-          <caret line="1071" column="15" lean-forward="false" selection-start-line="1071" selection-start-column="4" selection-end-line="1071" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../python35/Lib/site-packages/pandas/core/config.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7875">
-          <caret line="231" column="0" lean-forward="true" selection-start-line="231" selection-start-column="0" selection-end-line="231" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第六课/CarLR.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1575">
-          <caret line="46" column="32" lean-forward="true" selection-start-line="46" selection-start-column="32" selection-end-line="46" selection-end-column="32" />
-          <folding>
-            <element signature="e#37#56#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../python35/Lib/site-packages/pandas/core/config.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7875">
-          <caret line="231" column="0" lean-forward="true" selection-start-line="231" selection-start-column="0" selection-end-line="231" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../python35/Lib/site-packages/pandas/core/reshape/reshape.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36400">
-          <caret line="1071" column="15" lean-forward="false" selection-start-line="1071" selection-start-column="4" selection-end-line="1071" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../python35/Lib/site-packages/pandas/core/categorical.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7385">
-          <caret line="250" column="8" lean-forward="false" selection-start-line="250" selection-start-column="8" selection-end-line="250" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharmCE2017.1/system/python_stubs/-2024071421/numpy/core/multiarray.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="39">
-          <caret line="4180" column="13" lean-forward="false" selection-start-line="4180" selection-start-column="8" selection-end-line="4180" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../python35/Lib/site-packages/sklearn/metrics/ranking.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-816">
-          <caret line="202" column="4" lean-forward="false" selection-start-line="202" selection-start-column="4" selection-end-line="202" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../python35/Lib/site-packages/matplotlib/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-81">
-          <caret line="1181" column="0" lean-forward="false" selection-start-line="1181" selection-start-column="0" selection-end-line="1181" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第六课/data/car.data">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="35">
-          <caret line="3" column="29" lean-forward="false" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../python35/Lib/site-packages/pandas/util/_decorators.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="175" column="8" lean-forward="false" selection-start-line="175" selection-start-column="8" selection-end-line="175" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../python35/Lib/site-packages/pandas/io/parsers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5024">
-          <caret line="662" column="16" lean-forward="true" selection-start-line="662" selection-start-column="16" selection-end-line="662" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../python35/Lib/site-packages/statsmodels/tsa/arima_model.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5643">
-          <caret line="1007" column="23" lean-forward="false" selection-start-line="1007" selection-start-column="23" selection-end-line="1007" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../python35/Lib/site-packages/pandas/stats/moments.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-86">
-          <caret line="456" column="4" lean-forward="false" selection-start-line="456" selection-start-column="4" selection-end-line="456" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../python35/Lib/site-packages/matplotlib/pyplot.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="1387" column="4" lean-forward="false" selection-start-line="1387" selection-start-column="4" selection-end-line="1387" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../python35/Lib/site-packages/numpy/core/arrayprint.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-389">
-          <caret line="58" column="4" lean-forward="false" selection-start-line="58" selection-start-column="4" selection-end-line="58" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharmCE2017.1/system/python_stubs/-2024071421/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="556">
-          <caret line="2932" column="8" lean-forward="false" selection-start-line="2932" selection-start-column="8" selection-end-line="2932" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../python35/Lib/site-packages/numpy/lib/shape_base.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-389">
-          <caret line="467" column="4" lean-forward="false" selection-start-line="467" selection-start-column="4" selection-end-line="467" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../python35/Lib/site-packages/sklearn/model_selection/_split.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="369">
-          <caret line="1956" column="46" lean-forward="true" selection-start-line="1956" selection-start-column="46" selection-end-line="1956" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../python35/Lib/site-packages/numpy/core/fromnumeric.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-146">
-          <caret line="825" column="4" lean-forward="false" selection-start-line="825" selection-start-column="4" selection-end-line="825" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../python35/Lib/site-packages/sklearn/ensemble/forest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1303">
-          <caret line="1213" column="8" lean-forward="false" selection-start-line="1213" selection-start-column="8" selection-end-line="1213" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第九课/data/housing.data">
+    <entry file="file://$PROJECT_DIR$/第九课/data/Advertising.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -665,12 +509,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/第九课/ARIMA.py">
+    <entry file="file://$PROJECT_DIR$/第九课/IRIS.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="38" column="9" lean-forward="false" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#16#35#0" expanded="true" />
+            <element signature="e#16#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第九课/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="8" column="24" lean-forward="false" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第六课/CarLR.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1435">
+          <caret line="41" column="20" lean-forward="true" selection-start-line="41" selection-start-column="20" selection-end-line="41" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第九课/Boston.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="22" column="20" lean-forward="false" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+          <folding>
+            <element signature="e#16#34#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -679,17 +547,167 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/第九课/Boston.py">
+    <entry file="file://$PROJECT_DIR$/第六课/data/car.data">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="22" column="20" lean-forward="false" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
-          <folding>
-            <element signature="e#16#34#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="105">
+          <caret line="3" column="29" lean-forward="false" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../python35/Lib/site-packages/sklearn/linear_model/logistic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54460">
+          <caret line="1556" column="8" lean-forward="false" selection-start-line="1556" selection-start-column="8" selection-end-line="1556" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../python35/Lib/site-packages/pandas/core/categorical.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8750">
+          <caret line="250" column="8" lean-forward="false" selection-start-line="250" selection-start-column="8" selection-end-line="250" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../python35/Lib/site-packages/pandas/core/reshape/reshape.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36400">
+          <caret line="1071" column="15" lean-forward="false" selection-start-line="1071" selection-start-column="4" selection-end-line="1071" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../python35/Lib/site-packages/pandas/core/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7875">
+          <caret line="231" column="0" lean-forward="true" selection-start-line="231" selection-start-column="0" selection-end-line="231" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第六课/CarLR.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1575">
+          <caret line="46" column="32" lean-forward="true" selection-start-line="46" selection-start-column="32" selection-end-line="46" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../python35/Lib/site-packages/pandas/core/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7875">
+          <caret line="231" column="0" lean-forward="true" selection-start-line="231" selection-start-column="0" selection-end-line="231" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../python35/Lib/site-packages/pandas/core/reshape/reshape.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36400">
+          <caret line="1071" column="15" lean-forward="false" selection-start-line="1071" selection-start-column="4" selection-end-line="1071" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../python35/Lib/site-packages/pandas/core/categorical.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7385">
+          <caret line="250" column="8" lean-forward="false" selection-start-line="250" selection-start-column="8" selection-end-line="250" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2017.1/system/python_stubs/-2024071421/numpy/core/multiarray.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="39">
+          <caret line="4180" column="13" lean-forward="false" selection-start-line="4180" selection-start-column="8" selection-end-line="4180" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../python35/Lib/site-packages/sklearn/metrics/ranking.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-816">
+          <caret line="202" column="4" lean-forward="false" selection-start-line="202" selection-start-column="4" selection-end-line="202" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第六课/data/car.data">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="35">
+          <caret line="3" column="29" lean-forward="false" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../python35/Lib/site-packages/pandas/util/_decorators.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="175" column="8" lean-forward="false" selection-start-line="175" selection-start-column="8" selection-end-line="175" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../python35/Lib/site-packages/pandas/io/parsers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5024">
+          <caret line="662" column="16" lean-forward="true" selection-start-line="662" selection-start-column="16" selection-end-line="662" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../python35/Lib/site-packages/statsmodels/tsa/arima_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5643">
+          <caret line="1007" column="23" lean-forward="false" selection-start-line="1007" selection-start-column="23" selection-end-line="1007" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../python35/Lib/site-packages/pandas/stats/moments.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-86">
+          <caret line="456" column="4" lean-forward="false" selection-start-line="456" selection-start-column="4" selection-end-line="456" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../python35/Lib/site-packages/numpy/core/arrayprint.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-389">
+          <caret line="58" column="4" lean-forward="false" selection-start-line="58" selection-start-column="4" selection-end-line="58" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2017.1/system/python_stubs/-2024071421/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="556">
+          <caret line="2932" column="8" lean-forward="false" selection-start-line="2932" selection-start-column="8" selection-end-line="2932" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../python35/Lib/site-packages/numpy/lib/shape_base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-389">
+          <caret line="467" column="4" lean-forward="false" selection-start-line="467" selection-start-column="4" selection-end-line="467" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../python35/Lib/site-packages/sklearn/model_selection/_split.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="1956" column="46" lean-forward="true" selection-start-line="1956" selection-start-column="46" selection-end-line="1956" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../python35/Lib/site-packages/numpy/core/fromnumeric.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-146">
+          <caret line="825" column="4" lean-forward="false" selection-start-line="825" selection-start-column="4" selection-end-line="825" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../python35/Lib/site-packages/sklearn/ensemble/forest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1303">
+          <caret line="1213" column="8" lean-forward="false" selection-start-line="1213" selection-start-column="8" selection-end-line="1213" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第九课/data/housing.data">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -697,34 +715,146 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="145">
           <caret line="1556" column="8" lean-forward="false" selection-start-line="1556" selection-start-column="8" selection-end-line="1556" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/第九课/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="109">
+        <state relative-caret-position="280">
           <caret line="8" column="24" lean-forward="false" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-          <folding>
-            <element signature="e#16#34#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/第六课/CarLR.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="41" column="20" lean-forward="true" selection-start-line="41" selection-start-column="20" selection-end-line="41" selection-end-column="20" />
+        <state relative-caret-position="35">
+          <caret line="41" column="20" lean-forward="false" selection-start-line="41" selection-start-column="20" selection-end-line="41" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第九课/data/iris.data">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第九课/data/Advertising.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../python35/Lib/site-packages/matplotlib/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7630">
+          <caret line="1181" column="0" lean-forward="false" selection-start-line="1181" selection-start-column="0" selection-end-line="1181" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../python35/Lib/site-packages/matplotlib/axes/_base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-486">
+          <caret line="2492" column="8" lean-forward="false" selection-start-line="2492" selection-start-column="8" selection-end-line="2492" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../python35/Lib/site-packages/sklearn/linear_model/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1291">
+          <caret line="449" column="8" lean-forward="false" selection-start-line="449" selection-start-column="8" selection-end-line="449" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../python35/Lib/site-packages/pandas/core/indexes/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="2441" column="0" lean-forward="false" selection-start-line="2441" selection-start-column="0" selection-end-line="2441" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../python35/Lib/site-packages/sklearn/linear_model/ridge.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="638" column="8" lean-forward="false" selection-start-line="638" selection-start-column="8" selection-end-line="638" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../python35/Lib/site-packages/matplotlib/cbook.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4973">
+          <caret line="1563" column="8" lean-forward="false" selection-start-line="1563" selection-start-column="8" selection-end-line="1563" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../python35/Lib/site-packages/seaborn/matrix.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6128">
+          <caret line="1126" column="8" lean-forward="false" selection-start-line="1126" selection-start-column="8" selection-end-line="1126" selection-end-column="8" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/第九课/IRIS.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
+        <state relative-caret-position="630">
           <caret line="18" column="40" lean-forward="false" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
           <folding>
             <element signature="e#16#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第九课/Boston.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1254">
+          <caret line="22" column="20" lean-forward="false" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+          <folding>
+            <element signature="e#16#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第九课/ARIMA.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="72" column="14" lean-forward="true" selection-start-line="72" selection-start-column="14" selection-end-line="72" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../python35/Lib/site-packages/matplotlib/pyplot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="1387" column="4" lean-forward="false" selection-start-line="1387" selection-start-column="4" selection-end-line="1387" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第九课/LinearRegression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="84" selection-end-column="14" />
+          <folding>
+            <element signature="e#16#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第九课/Save.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="22" column="13" lean-forward="false" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+          <folding>
+            <element signature="e#16#35#0" expanded="true" />
           </folding>
         </state>
       </provider>
