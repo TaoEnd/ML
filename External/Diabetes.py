@@ -9,15 +9,17 @@ from sklearn.metrics import mean_squared_error
 from sklearn.linear_model import LinearRegression, Ridge
 from sklearn.ensemble import RandomForestRegressor
 from scipy.stats import pearsonr
+from sklearn.preprocessing import PolynomialFeatures
 
 # 使用糖尿病数据集预测糖尿病
 
 if __name__ == "__main__":
 	diabetes = load_diabetes()
-	# print(type(diabetes.target), diabetes.target.shape)
-	# print(type(diabetes.data), diabetes.data.shape)
-	# print(np.max(diabetes.data))
 	x_data = diabetes.data
+	# 使用PolynomialFeatures做特征交叉，默认两两特征进行交叉
+	# poly = PolynomialFeatures()
+	# x_data = poly.fit_transform(x_data)
+	# print(x_data.shape)
 	y = diabetes.target
 	x = pd.DataFrame()
 
